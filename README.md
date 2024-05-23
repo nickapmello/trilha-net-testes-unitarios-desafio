@@ -1,0 +1,1 @@
+O projeto parte do desafio Trilha .NET - Testes Unitários com C# da DIO, desenvolvi um console que contém a lógica principal e os testes usando xUnit, fazendo a validação dos métodos de manipulação de listas e strings.
